@@ -10,4 +10,3 @@ while not is_special:
             is_special = False
             break
 print(year)
-
