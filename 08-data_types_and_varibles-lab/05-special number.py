@@ -9,4 +9,3 @@ for current_number in range(1, number+1):
     if digit_sum == 5 or digit_sum == 7 or digit_sum == 11:
         is_special = True
     print(f'{current_number} -> {is_special}')
-
